@@ -1,31 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-03-21 12:09:46 +0100
-categories: jekyll update
+title: Drug related crimes in San Francisco
+date: 2023-03-25
+categories: analysis visualization
 ---
-hej
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Introduction to the dataset
+The data comes from DataSF which is a an official open data portal of the City and County of San Francisco. The DataSF portal provides access to a wide range of data sets, including crime incidents. The data sets are produced by various departments and agencies of the city government (https://datasf.org/).
 
-Jekyll requires blog post files to be named according to the following format:
+In this project we use the dataset "Police Department Incident Reports: Historical 2003 to May 2018". The dataset has 14 columns and 2.13M rows, where each row is an incident report. The dataset includes information about the date and time of the incident, the location, the type of crime, and other details related to the incident. It's important to note that this data only reflects reported incidents to the San Francisco Police Department, and may not capture all crimes that occur in the city.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In this project we look at the crime category DRUGS/NARCOTICS. This crime category provides informations about drug-related crimes reported to the San Francisco Police Department (https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present). 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Choropleth map of San Francisco
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+To investigate how the the DRUG related crimes are distributed in the San Francisco districts we will create a choropleth map.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<iframe src="https://raw.githack.com/emilieoe/emilieoe.github.io/main/_posts/choropleth_map.html" width="100%" height="600px"></iframe>
+
+The map illustrates that Tenderloin is the San Francisco district with the highest number of reported incidents of drug/narcotic from 2003 to 2018. There has been reported 37.365 incidents in this district.
+
+There can be several reasons behind Tenderloin's high incidence of drug-related issues. Although it covers a relatively small area of San Francisco, the district is densely populated and the area have a long history of poverty, homelessness, and drug abuse.
+
+Many of the people living in Tenderloin are living in poverty and have limited opportunities for employment and education. This can lead to an increased risk of drug abuse and related problems. The district has a long-standing history of being a refuge for people suffering from addiction and in dire need, which has perpetuated the drug problem (https://www.sfchronicle.com/projects/2022/san-francisco-tenderloin-history/; https://abc7news.com/sf-tenderloin-drug-arrests-narcan-homeless/11535735/)
