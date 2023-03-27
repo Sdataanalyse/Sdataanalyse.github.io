@@ -7,26 +7,6 @@ layout: default
 
 [back](./)
 
-
-```
-# Importing libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from datetime import datetime
-
-# Importing data
-crime_data = pd.read_csv('/Users/Emili/Desktop/Social data analyse\Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv')
-
-# Changing formatting in 'Date' and 'Time' columns
-crime_data["Date"] = crime_data["Date"].apply(lambda x: datetime.strptime(x, "%m/%d/%Y") )
-crime_data["Time"] = crime_data["Time"].apply(lambda x: datetime.strptime(x, "%H:%M") )
-
-# Selecting data with specific crime, and excluding data from 2018 as we're missing data for several of months
-Data_drug = crime_data[crime_data['Category'] == 'DRUG/NARCOTIC']
-Data_drug2 = Data_drug.loc[(Data_drug["Date"] >= '2003-01-01') & (Data_drug["Date"] < '2018-01-01')] 
-```
-
 ## Choropleth map of San Francisco
 To investigate how the the DRUG related crimes are distributed in the San Francisco districts we will create a choropleth map.
 

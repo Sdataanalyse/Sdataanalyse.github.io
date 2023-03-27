@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017
+## Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017
 
-## Introduction to the dataset 
+### Introduction to the dataset 
 The data comes from DataSF which is a an official open data portal of the City and County of San Francisco. The DataSF portal provides access to a wide range of data sets, including crime incidents. The data sets are produced by various departments and agencies of the city government. (DataSF. (n.d.). Home page. Retrieved March 25, 2023, from https://datasf.org/)
 
 In this project we use the dataset "Police Department Incident Reports: Historical 2003 to May 2018". The dataset has 14 columns and 2.13M rows, where each row is an incident report. The dataset includes information about the date and time of the incident, the location, the type of crime, and other details related to the incident. It's important to note that this data only reflects reported incidents to the San Francisco Police Department, and may not capture all crimes that occur in the city.
@@ -14,9 +14,11 @@ In this project we look at the crime category DRUGS/NARCOTICS. This crime catego
 (DataSF. (n.d.). SFPD Incident Report 2018 to Present. DataSF Dataset Explainers. Retrieved from https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present)
 
 
-# Number of DRUG/NARCOTIC incidents from 2003-2017, by Year, Month and Day of Week
+## Number of DRUG/NARCOTIC incidents from 2003-2017, by Year, Month and Day of Week
 
 (calender_plot) 
+
+[Link to calender plot code](Calenderplot code.md)
 
 From 2003 to 2017, there appears to have been an overall decrease in the number of drug-related incidents. However, between 2007 and 2009, there was a noticeable peak in incidents that suggests a possible surge in drug-related criminal activity during that period.
 
@@ -25,7 +27,7 @@ Subsequent to 2009, there was a decrease in incidents that could be attributed t
 References:
 (1) Eliminating Mass Incarceration: How San Francisco Did It, James Austin (JFA Institute), p. 13, https://probation.acgov.org/probation-assets/files/resources-info/Reforming%20San%20Franciscos%20Criminal%20Justice%20System-JA4.pdf
 
-## Map of San Francisco
+### Map of San Francisco
 
 The map below displays the distribution of drug-related crimes across the districts of San Francisco.
 
