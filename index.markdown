@@ -45,3 +45,19 @@ Many of the people living in Tenderloin are living in poverty and have limited o
 San Francisco Chronicle. (2022). Tenderloin: A History of San Francisco's Most Contentious Neighborhood. Retrieved from https://www.sfchronicle.com/projects/2022/san-francisco-tenderloin-history/
 ABC7 News. (2021, October 28). SF's Tenderloin sees more drug arrests, but Narcan program saves lives. Retrieved from https://abc7news.com/sf-tenderloin-drug-arrests-narcan-homeless/11535735/
 
+## DRUG/NARCOTIC incidents per year for each district
+
+Figure 3 is an interactive visualization, where you have the option to select/deselect the various districts in the plot. Click on one of the districts in the box to deselect it and click again to select it.
+
+Figure
+
+[Link to district and year plot code](District and year plot code.md)
+
+According to figure 3, the TENDERLOIN district in San Francisco has consistently experienced the highest number of drug/narcotic incidents. This district has earned the reputation of being the "drug district" due to its association with drug-related activities. (2) 
+
+Specifically, between 2006 and 2009, there was a significant increase in drug/narcotic incidents in the TENDERLOIN district, which contributed to the overall increase in San Francisco during that period. However, there has been a decline in the number of drug/narcotic incidents in the TENDERLOIN district after 2009. This decline may be attributed to various factors, including the appointment of Police Chief George Gascón in 2009, who prioritized the TENDERLOIN district as a high-crime area (3) and, as pointed out in figure 1, the implementation of SB 678 and the exposure of the unlawful drug-related arrests in 2009.
+
+References:     
+(2) 60% of S.F. drug incidents are in the Tenderloin. That number’s rise is one factor in the debate over a state of emergency, Susie Neilson, Dec. 23, 2021, https://www.sfchronicle.com/bayarea/article/These-charts-show-how-drug-incidents-in-the-16723745.php
+
+(3) S.F. police chief's first target: Tenderloin, C.W. Nevius, Sep. 5, 2009, https://www.sfgate.com/crime/article/S-F-police-chief-s-first-target-Tenderloin-3219336.php
