@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017
+## **Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017**
 
 ### Introduction to the dataset 
 The data comes from DataSF which is a an official open data portal of the City and County of San Francisco. The DataSF portal provides access to a wide range of data sets, including crime incidents. The data sets are produced by various departments and agencies of the city government. (1)
 
 In this project we use the dataset "Police Department Incident Reports: Historical 2003 to May 2018". The dataset has 14 columns and 2.13M rows, where each row is an incident report. The dataset includes information about the date and time of the incident, the location, the type of crime, and other details related to the incident. It's important to note that this data only reflects reported incidents to the San Francisco Police Department, and may not capture all crimes that occur in the city.
 
-In this project we look at the crime category DRUGS/NARCOTICS. This crime category provides informations about drug-related crimes reported to the San Francisco Police Department. (2)
+In this project we look at the crime category DRUGS/NARCOTICS for the periode from 2003 to 2017 since we're missing data for several of months of 2018. This crime category provides informations about drug-related crimes reported to the San Francisco Police Department. (2)
 
-### Number of DRUG/NARCOTIC incidents from 2003-2017
+
+
+### Fig. 1: Number of DRUG/NARCOTIC incidents from 2003-2017
 
 The plot below shows the number of drug/narcotic incidents by year, month and day of week from 2003-2017.
 
@@ -25,7 +27,8 @@ From 2003 to 2017, there appears to have been an overall decrease in the number 
 Subsequent to 2009, there was a decrease in incidents that could be attributed to the implementation of SB 678 and the exposure of unlawful drug-related arrests by the San Francisco Police. This led to a new approach to drug crime offenses and the cancellation of a significant number of drug arrests that were deemed illegal. These events resulted in reduced felony arrests and court filings for drug crimes in San Francisco, which could explain the declining trend in the number of DRUG/NARCOTIC incidents after 2009. (3)
 
 
-### Drug related incidents across districts 
+
+### Fig. 2: Drug related incidents across districts 
 
 The map below displays the distribution of drug/narcotic incidents across the districts of San Francisco.
 
@@ -41,9 +44,10 @@ Many of the people living in Tenderloin are living in poverty and have limited o
 
 
 
-## DRUG/NARCOTIC incidents per year for each district
 
-Figure 3 is an interactive visualization, where you have the option to select/deselect the various districts in the plot. Click on one of the districts in the box to deselect it and click again to select it.
+### Fig. 3: DRUG/NARCOTIC incidents per year for each district
+
+The visualization is interactive, where you have the option to select/deselect the various districts in the plot. Click on one of the districts in the box to deselect it and click again to select it.
 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/district.html" width="90%" height="600px"></iframe>
 
@@ -53,7 +57,8 @@ According to figure 3, the TENDERLOIN district in San Francisco has consistently
 
 Specifically, between 2006 and 2009, there was a significant increase in drug/narcotic incidents in the TENDERLOIN district, which contributed to the overall increase in San Francisco during that period. However, there has been a decline in the number of drug/narcotic incidents in the TENDERLOIN district after 2009. This decline may be attributed to various factors, including the appointment of Police Chief George Gascón in 2009, who prioritized the TENDERLOIN district as a high-crime area (7) and, as pointed out in figure 1, the implementation of SB 678 and the exposure of the unlawful drug-related arrests in 2009.
 
-## References:
+
+### References:
 
 (1) DataSF. (n.d.). Home page. Retrieved March 25, 2023, from https://datasf.org/
 
