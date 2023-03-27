@@ -11,7 +11,7 @@ In this project we use the dataset "Police Department Incident Reports: Historic
 
 In this project we look at the crime category DRUGS/NARCOTICS for the periode from 2003 to 2017 since we're missing data for several of months of 2018. This crime category provides informations about drug-related crimes reported to the San Francisco Police Department. (2)
 
-
+<br>
 
 ### Fig. 1: Number of DRUG/NARCOTIC incidents from 2003-2017
 
