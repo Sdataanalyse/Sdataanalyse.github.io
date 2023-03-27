@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Drug related crimes in San Francisco
 date: 2023-03-25
 categories: analysis visualization
