@@ -19,7 +19,7 @@ The map below displays the distribution of drug-related crimes across the distri
 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/choropleth_map.html" width="90%" height="600px"></iframe>
 
-[Link to Choropleth map code](Files/A_2.ipynb)
+[Link to Choropleth map code](Choropleth map code.md)
 
 The map illustrates that Tenderloin is the district with the highest number of reported incidents of drug/narcotic from 2003 to 2018. There has been reported 37.365 incidents in this district.
 
