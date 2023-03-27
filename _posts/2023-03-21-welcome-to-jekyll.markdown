@@ -5,7 +5,7 @@ date: 2023-03-25
 categories: analysis visualization
 ---
 
-# Introduction to the dataset
+# Introduction to the dataset - test
 The data comes from DataSF which is a an official open data portal of the City and County of San Francisco. The DataSF portal provides access to a wide range of data sets, including crime incidents. The data sets are produced by various departments and agencies of the city government (https://datasf.org/).
 
 In this project we use the dataset "Police Department Incident Reports: Historical 2003 to May 2018". The dataset has 14 columns and 2.13M rows, where each row is an incident report. The dataset includes information about the date and time of the incident, the location, the type of crime, and other details related to the incident. It's important to note that this data only reflects reported incidents to the San Francisco Police Department, and may not capture all crimes that occur in the city.
