@@ -49,7 +49,7 @@ ABC7 News. (2021, October 28). SF's Tenderloin sees more drug arrests, but Narca
 
 Figure 3 is an interactive visualization, where you have the option to select/deselect the various districts in the plot. Click on one of the districts in the box to deselect it and click again to select it.
 
-Figure
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/district.html" width="90%" height="600px"></iframe>
 
 [Link to district and year plot code](District code.md)
 
