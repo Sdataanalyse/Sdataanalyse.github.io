@@ -21,7 +21,7 @@
 title: Drug related crimes in San Francisco
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The number of DRUG/NARCOTIC incidents has been decreasing in San Francisco from 2003-2017. Using San Francisco’s 2003-2017 DRUG/NARCOTIC incident records and the knowledge we have gained from various articles we will try explain and visualize this on this webpage.
+  The number of DRUG/NARCOTIC incidents has been decreasing in San Francisco from 2003-2017. Using San Francisco’s 2003-2017 DRUG/NARCOTIC incident records and the knowledge we have gained from various articles we will try explain and visualize on this webpage.
 
 
 baseurl: "" # the subpath of your site, e.g. /blog

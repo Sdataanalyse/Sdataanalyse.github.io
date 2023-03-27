@@ -28,9 +28,9 @@ Subsequent to 2009, there was a decrease in incidents that could be attributed t
 References:
 (1) Eliminating Mass Incarceration: How San Francisco Did It, James Austin (JFA Institute), p. 13, https://probation.acgov.org/probation-assets/files/resources-info/Reforming%20San%20Franciscos%20Criminal%20Justice%20System-JA4.pdf
 
-### Map of San Francisco
+### Number of Drug/Narcotic incidents across districts
 
-The map below displays the distribution of drug-related crimes across the districts of San Francisco.
+The map below displays the distribution of Drug/Narcotic incidents across the districts of San Francisco.
 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/choropleth_map.html" width="90%" height="600px"></iframe>
 
