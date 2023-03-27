@@ -51,7 +51,7 @@ Figure 3 is an interactive visualization, where you have the option to select/de
 
 Figure
 
-[Link to district and year plot code](District and year plot code.md)
+[Link to district and year plot code](District code.md)
 
 According to figure 3, the TENDERLOIN district in San Francisco has consistently experienced the highest number of drug/narcotic incidents. This district has earned the reputation of being the "drug district" due to its association with drug-related activities. (2) 
 
