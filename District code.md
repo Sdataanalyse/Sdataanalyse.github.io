@@ -1,3 +1,6 @@
+DRUG/NARCOTIC incidents per year for each district
+
+```
 # Add new "Year" column
 df_drug['Year'] = df_drug['Date'].dt.year
 
@@ -22,3 +25,4 @@ p = drug_district.plot_bokeh.line(
     title='No. of DRUG/NARCOTIC incidents per year for each district',
     fontsize_title = "20pt"
 )
+```
