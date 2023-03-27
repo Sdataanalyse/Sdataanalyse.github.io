@@ -16,7 +16,8 @@ In this project we look at the crime category DRUGS/NARCOTICS. This crime catego
 
 ## Number of DRUG/NARCOTIC incidents from 2003-2017, by Year, Month and Day of Week
 
-<img src="https://github.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/Calandarplot.jpg" alt="Your Picture Name">
+<img src="https://raw.githubusercontent.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/Calandarplot.jpg" alt="Your Picture Name">
+
 
 [Link to calender plot code](Calenderplot code.md)
 
