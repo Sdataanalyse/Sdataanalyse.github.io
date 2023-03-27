@@ -13,7 +13,7 @@ In this project we look at the crime category DRUGS/NARCOTICS. This crime catego
 
 ### Number of DRUG/NARCOTIC incidents from 2003-2017
 
-The plot below shows the number of Drug/narcotic incidents by year, month and day of week from 2003-2017.
+The plot below shows the number of drug/narcotic incidents by year, month and day of week from 2003-2017.
 
 <img src="https://raw.githubusercontent.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/Calandarplot.jpg" alt="Your Picture Name">
 
@@ -53,7 +53,7 @@ According to figure 3, the TENDERLOIN district in San Francisco has consistently
 
 Specifically, between 2006 and 2009, there was a significant increase in drug/narcotic incidents in the TENDERLOIN district, which contributed to the overall increase in San Francisco during that period. However, there has been a decline in the number of drug/narcotic incidents in the TENDERLOIN district after 2009. This decline may be attributed to various factors, including the appointment of Police Chief George Gascón in 2009, who prioritized the TENDERLOIN district as a high-crime area (7) and, as pointed out in figure 1, the implementation of SB 678 and the exposure of the unlawful drug-related arrests in 2009.
 
-References:
+## References:
 
 (1) DataSF. (n.d.). Home page. Retrieved March 25, 2023, from https://datasf.org/
 
