@@ -26,7 +26,7 @@ From 2003 to 2017, there appears to have been an overall decrease in the number 
 
 Subsequent to 2009, there was a decrease in incidents that could be attributed to the implementation of SB 678 and the exposure of unlawful drug-related arrests by the San Francisco Police. This led to a new approach to drug crime offenses and the cancellation of a significant number of drug arrests that were deemed illegal. These events resulted in reduced felony arrests and court filings for drug crimes in San Francisco, which could explain the declining trend in the number of DRUG/NARCOTIC incidents after 2009. (3)
 
-
+<br>
 
 ### Fig. 2: Drug related incidents across districts 
 
@@ -42,8 +42,7 @@ There can be several reasons behind Tenderloin's high incidence of drug-related 
 
 Many of the people living in Tenderloin are living in poverty and have limited opportunities for employment and education. This can lead to an increased risk of drug abuse and related problems. The district has a long-standing history of being a refuge for people suffering from addiction and in dire need, which has perpetuated the drug problem. (4)(5)
 
-
-
+<br>
 
 ### Fig. 3: DRUG/NARCOTIC incidents per year for each district
 
