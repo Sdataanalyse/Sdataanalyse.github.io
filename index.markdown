@@ -25,9 +25,9 @@ From 2003 to 2017, there appears to have been an overall decrease in the number 
 Subsequent to 2009, there was a decrease in incidents that could be attributed to the implementation of SB 678 and the exposure of unlawful drug-related arrests by the San Francisco Police. This led to a new approach to drug crime offenses and the cancellation of a significant number of drug arrests that were deemed illegal. These events resulted in reduced felony arrests and court filings for drug crimes in San Francisco, which could explain the declining trend in the number of DRUG/NARCOTIC incidents after 2009. (3)
 
 
-### Map of San Francisco
+### Drug related incidents across districts 
 
-The map below displays the distribution of drug-related crimes across the districts of San Francisco.
+The map below displays the distribution of drug/narcotic incidents across the districts of San Francisco.
 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Files/choropleth_map.html" width="90%" height="600px"></iframe>
 
@@ -54,6 +54,7 @@ According to figure 3, the TENDERLOIN district in San Francisco has consistently
 Specifically, between 2006 and 2009, there was a significant increase in drug/narcotic incidents in the TENDERLOIN district, which contributed to the overall increase in San Francisco during that period. However, there has been a decline in the number of drug/narcotic incidents in the TENDERLOIN district after 2009. This decline may be attributed to various factors, including the appointment of Police Chief George Gascón in 2009, who prioritized the TENDERLOIN district as a high-crime area (7) and, as pointed out in figure 1, the implementation of SB 678 and the exposure of the unlawful drug-related arrests in 2009.
 
 References:
+
 (1) DataSF. (n.d.). Home page. Retrieved March 25, 2023, from https://datasf.org/
 
 (2) DataSF. (n.d.). SFPD Incident Report 2018 to Present. DataSF Dataset Explainers. Retrieved from https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present
