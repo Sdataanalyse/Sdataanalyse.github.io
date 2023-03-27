@@ -56,6 +56,7 @@ According to figure 3, the TENDERLOIN district in San Francisco has consistently
 
 Specifically, between 2006 and 2009, there was a significant increase in drug/narcotic incidents in the TENDERLOIN district, which contributed to the overall increase in San Francisco during that period. However, there has been a decline in the number of drug/narcotic incidents in the TENDERLOIN district after 2009. This decline may be attributed to various factors, including the appointment of Police Chief George Gascón in 2009, who prioritized the TENDERLOIN district as a high-crime area (7) and, as pointed out in figure 1, the implementation of SB 678 and the exposure of the unlawful drug-related arrests in 2009.
 
+<br>
 
 ### References:
 
