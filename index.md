@@ -32,7 +32,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 ## Examples
 
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Complaints_map.html" width="90%" height="600px"></iframe>
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Complaints_map.html" width="110%" height="800px"></iframe>
 
 test
 
