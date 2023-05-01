@@ -1,5 +1,6 @@
 ---
 title: COVID-19's impact on crime trends in New York
+excerpt: "test"
 aside: true
 feature_text: |
   ## Alembic
