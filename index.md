@@ -1,6 +1,8 @@
 ---
 title: COVID-19's impact on crime trends in New York
 layout: categories
+excerpt: "Category index"
+aside: true
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
