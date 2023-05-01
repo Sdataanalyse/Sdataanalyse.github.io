@@ -9,9 +9,6 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Indledning beskrivelse
 
-## Indholdsfortegnelse
-
-{:toc}
 
 ## Features
 
@@ -48,7 +45,7 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 - [karateca.org](https://www.karateca.org/)
 
 
-
+- [Skriv tekst](https://sdataanalyse.github.io/elements/)
 
 
 ## Installation
