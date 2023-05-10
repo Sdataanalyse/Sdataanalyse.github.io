@@ -7,10 +7,10 @@ feature_image: "https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-##Background/introduction 
+## Background/introduction 
 
 
-###More complaints after COVID-19 in all five boroughs 
+### More complaints after COVID-19 in all five boroughs 
 As previously noted, the number of complaints in 2022 exceeded that of 2019, despite a decline during the COVID-19 pandemic. In order to delve deeper into this phenomenon, we will examine the five boroughs of New York City to determine if this trend is uniform across the board. 
 The accompanying map illustrates the frequency of complaints per 100,000 residents in each borough.
 
@@ -21,7 +21,7 @@ Likewise, the distribution of complaints across the five boroughs shows a consis
 Manhattan, as the borough with the highest population density, represents a vibrant tapestry of residents hailing from diverse backgrounds, cultures, and socioeconomic statuses. This unique amalgamation of people can give rise to a greater likelihood of potential conflicts, which subsequently contributes to a higher volume of reported complaints.
 Conversely, The Bronx, while not as ethnically diverse as Manhattan, faces its own distinct set of challenges. The borough is characterized by a comparatively higher poverty rate, with median incomes roughly half of what is seen in areas such as Staten Island or Queens. This economic disparity can be correlated with higher crime rates and, consequently, a greater number of reported complaints (https://www.sciencedirect.com/science/article/pii/S0047235222000496)
 
-#Less arrests after COVID-19 in all five boroughs 
+# Less arrests after COVID-19 in all five boroughs 
 As previously mentioned, there was a decline in arrests following the COVID-19 outbreak when compared to 2019. To gain more insight into this trend, we will take a closer look at the boroughs and determine whether the decrease in arrests is consistent across all of them as we saw for complaints. The map illustrates the number of arrests per 100,000 residents.
 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Arrest_map_per_100.html" width="110%" height="800px"></iframe>
