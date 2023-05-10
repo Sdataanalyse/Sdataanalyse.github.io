@@ -1,7 +1,7 @@
 ---
 title: COVID-19's impact on crime trends in New York
 feature_text: |
-  ## Alembic
+  ## COVID-19's impact on crime trends in New York
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/NewYork.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
