@@ -9,6 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 ## Background/introduction 
 
+hej hej 
 
 ### More complaints after COVID-19 in all five boroughs 
 As previously noted, the number of complaints in 2022 exceeded that of 2019, despite a decline during the COVID-19 pandemic. In order to delve deeper into this phenomenon, we will examine the five boroughs of New York City to determine if this trend is uniform across the board. 
