@@ -41,7 +41,7 @@ There can be many underlying factors, but it is interesting to note that deaths 
 
 ###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaints_Borough.html" width="110%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_Borough.html" width="110%" height="650px"></iframe>
 
 
 
