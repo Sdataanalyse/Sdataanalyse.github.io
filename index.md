@@ -47,7 +47,7 @@ Delving deeper into the complaints data, a striking pattern emerges, while other
 It is crucial to highlight that the data on murder complaints for the boroughs is not accurate because 1209 out of 1778 complaints are not registered in a borough. Therefore, it does not provide an accurate representation of murder complaints in the five boroughs. However, this is not the case for arrests.
 
 In addition to an increase in complaints, the Bronx has also witnessed a surge in prostitution-related arrests. The number of arrests rose from 170 in 2019 to 248 in 2020, contrasting with the downward trend observed in the other boroughs.
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Arrest_Borough.html" width="110%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Arrest_borough.html" width="110%" height="650px"></iframe>
 However, the intriguing question remains: what factors are specifically driving this increase in the Bronx? During our research, it appears that this particular subject has not received significant attention previously, suggesting that it remains an area worthy of further investigation.
 
 # Features
