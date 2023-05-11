@@ -89,12 +89,12 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "COVID-19's impact on crime trends in New York" # Site name or title, also used in jekyll-seo-tag
-# logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/newyork.png" # Site logo, also used in jekyll-seo-tag
 description: "Beskrivelse af projektet" # Site description and default description, also used in jekyll-seo-tag
 url: "https://sdataanalyse.github.io/" #https://alembic.darn.es Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+#repo: "https://github.com/daviddarnes/alembic"
+email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: "https://github.com/Sdataanalyse/Sdataanalyse.github.io"
@@ -128,13 +128,13 @@ navigation_header:
 
 navigation_footer:
 - title: COVID-19's impact on crime trends in New York
-  url: https://darn.es
+  url: https://sdataanalyse.github.io/
 
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+  Twitter: " "
+  facebook: " "
+  Email: false
 
 # Load custom fonts from fonts.google.com etc
 #
