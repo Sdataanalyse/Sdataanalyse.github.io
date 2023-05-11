@@ -20,6 +20,11 @@ Looking at the distribution of complaints across the five boroughs in New York C
 
 <iframe src="https://raw.githubusercontent.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
 
+<iframe src="https://Sdataanalyse.github.io/Sdataanalyse.github.io/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
+
+<iframe src="https://Sdataanalyse.github.io/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
+
+
 Furthermore, the distribution of complaints across the five boroughs shows a consistent trend, with Manhattan having the highest number of complaints per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, with Staten Island at the bottom.
 Manhattan, as the borough with the highest population density, represents a vibrant tapestry of residents hailing from diverse backgrounds, cultures, and socioeconomic statuses. This unique amalgamation of people can give rise to a greater likelihood of potential conflicts, which subsequently contributes to a higher volume of reported complaints.
 Conversely, The Bronx, while not as ethnically diverse as Manhattan, faces its own distinct set of challenges. The borough is characterized by a comparatively higher poverty rate, with median incomes roughly half of what is seen in areas such as Staten Island or Queens. This economic disparity can be correlated with higher crime rates and, consequently, a greater number of reported complaints (https://www.sciencedirect.com/science/article/pii/S0047235222000496)
