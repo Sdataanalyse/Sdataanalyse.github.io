@@ -1,5 +1,5 @@
 ---
-title: COVID-19’s impact on the criminal behavior in NYC from 2019 to 2022
+title: Crime complaints and arrests saw a big decrease in NYC under COVID-19 – Why?
 feature_text: |
   ## COVID-19's impact on crime trends in New York
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
@@ -7,30 +7,30 @@ feature_image: "https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-## Background/introduction 
+Intro
+
+### Changing criminal behavior in NYC due to COVID-19
 
 hej hej 
 
-### More complaints after COVID-19 in all five boroughs 
-As previously noted, the number of complaints in 2022 exceeded that of 2019, despite a decline during the COVID-19 pandemic. In order to delve deeper into this phenomenon, we will examine the five boroughs of New York City to determine if this trend is uniform across the board. 
-The accompanying map illustrates the frequency of complaints per 100,000 residents in each borough.
+#### Higher level of crime in NYC after COVID-19
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
-
-The maps show that all five districts share a common pattern: complaints dropped in 2020 and then began to rise again in 2021, ultimately resulting in the highest number of complaints in 2022 as compared to the previous three years. However, only Queens had already exceeded the number of complaints per 100,000 residents in 2021 compared to 2019.
-Likewise, the distribution of complaints across the five boroughs shows a consistent trend, with Manhattan having the highest number of complaints per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, with Staten Island at the bottom.
+#### More complaints after COVID-19 in all five districts 
+Looking at the distribution of complaints across the five boroughs in New York City, it is clear that all of boroughs follow a similar pattern: complaints dropped in 2020 and then began to rise again in 2021, ultimately resulting in the highest number of complaints in 2022 as compared to the previous three years
+                                                           Map of complaints 
+Furthermore, the distribution of complaints across the five boroughs shows a consistent trend, with Manhattan having the highest number of complaints per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, with Staten Island at the bottom.
 Manhattan, as the borough with the highest population density, represents a vibrant tapestry of residents hailing from diverse backgrounds, cultures, and socioeconomic statuses. This unique amalgamation of people can give rise to a greater likelihood of potential conflicts, which subsequently contributes to a higher volume of reported complaints.
 Conversely, The Bronx, while not as ethnically diverse as Manhattan, faces its own distinct set of challenges. The borough is characterized by a comparatively higher poverty rate, with median incomes roughly half of what is seen in areas such as Staten Island or Queens. This economic disparity can be correlated with higher crime rates and, consequently, a greater number of reported complaints (https://www.sciencedirect.com/science/article/pii/S0047235222000496)
 
-# Less arrests after COVID-19 in all five boroughs 
-As previously mentioned, there was a decline in arrests following the COVID-19 outbreak when compared to 2019. To gain more insight into this trend, we will take a closer look at the boroughs and determine whether the decrease in arrests is consistent across all of them as we saw for complaints. The map illustrates the number of arrests per 100,000 residents.
-
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Arrest_map_per_100.html" width="110%" height="800px"></iframe>
-
+#### Less arrests after COVID-19 in all five boroughs
 When we look at the distribution of arrests across the five boroughs of New York City, we notice that the pattern is similar to the one observed for complaints. Manhattan stands out with the highest number of arrests per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, while Staten Island has the lowest number of arrests.
-However, there is an interesting twist in the data for the year 2020. While all districts experienced a decrease in arrests, Manhattan had a larger drop than Bronx, going from 1856 to 1152 arrests per 100,000 residents, while Bronx decreased from 1785 to 1196 arrests per 100,000 residents. As a result, the Bronx had the most arrests per capita that year, even though Manhattan had the most complaints. There can be many factors related to this. However, it may be explained by the aftermath of the killing of George Floyd in May 2020. According to a study (reference) examining violence in New York City throughout the COVID-19 pandemic, there was an increase in assault incidents during the social unrest following the killing of George Floyd. Interestingly, this increase was particularly driving by the Bronx, offering a potential explanation for the borough having the highest number of arrests per 100,000 residents in 2020
-It's worth noting that despite the increase in arrests in 2021 and 2022, none of the boroughs have yet reached the same level of arrests as before the COVID-19 pandemic. This trend is consistent across all five boroughs, and it begs the question of what factors may be contributing to this overall decrease in arrests when comparing 2022 to 2019, even as complaints continue to rise.
+                                                 Arrests map
+However, there is an interesting twist in the data for the year 2020 when the COVID-19 pandemic emerged. While all districts experienced a decrease in arrests, Manhattan saw a larger drop compared to the Bronx, with arrests per 100,000 residents declining from 1856 to 1152, while the Bronx decreased from 1785 to 1196. Surprisingly, this resulted in the Bronx having the highest arrest rate per capita that year, despite Manhattan consistently holding that position in other years. This raises the question: what factors contributed to the Bronx surpassing Manhattan in arrests per 100,000 residents in 2020?"
+There can be many underlying factors, but it is interesting to note that deaths and hospitalizations due to COVID-19 were nearly twice as high in the Bronx as in Manhattan (Kisser et al., 2020). This may have been influenced by people's ability to work from home and the opportunities to leave the city, which were primarily available to those in the wealthiest neighborhoods. As a result, residents in the Bronx were more exposed to the risks of COVID-19 and faced a greater risk of violence compared to residents in Manhattan. These factors may help explain the higher number of complaints per resident in the Bronx in 2020 when COVID-19 was at its peak (Wollf et al., 2022).
 
+### Less crime in NYC during COVID-19, but prostitution, murder and burglary kept increasing 
+
+#### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 
 # Features
 
