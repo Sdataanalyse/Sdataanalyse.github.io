@@ -52,17 +52,6 @@ There can be many underlying factors, but it is interesting to note that deaths 
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
-## Examples
-
-
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Complaints_map.html" width="110%" height="800px"></iframe>
-
-test
-
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Plots/Complaints_map.html" width="100%" height="600px"></iframe>
-
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
 - [case2111.github.io](https://case2111.github.io/)
