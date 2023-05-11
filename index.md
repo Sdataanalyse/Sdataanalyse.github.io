@@ -42,8 +42,13 @@ tekst
 tekst
 
 ###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
-
+Delving deeper into the complaints data, a striking pattern emerges, while other boroughs experienced a decline in prostitution cases, the Bronx witnessed a significant increase. In figure ?? we can see that from 21 complaints in 2019, the numbers skyrocketed to 204 in 2020, only to decline to 15 in 2021 and 11 in 2022. This observation potentially sheds light on the rise in prostitution complaints in 2020. 
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_Borough.html" width="110%" height="650px"></iframe>
+It is crucial to highlight that the data on murder complaints for the boroughs is not accurate because 1209 out of 1778 complaints are not registered in a borough. Therefore, it does not provide an accurate representation of murder complaints in the five boroughs. However, this is not the case for arrests.
+
+In addition to an increase in complaints, the Bronx has also witnessed a surge in prostitution-related arrests. The number of arrests rose from 170 in 2019 to 248 in 2020, contrasting with the downward trend observed in the other boroughs.
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Arrest_Borough.html" width="110%" height="650px"></iframe>
+However, the intriguing question remains: what factors are specifically driving this increase in the Bronx? During our research, it appears that this particular subject has not received significant attention previously, suggesting that it remains an area worthy of further investigation.
 
 # Features
 
