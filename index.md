@@ -37,6 +37,14 @@ There can be many underlying factors, but it is interesting to note that deaths 
 
 #### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 
+
+
+###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
+
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="650px"></iframe>
+
+
+
 # Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
