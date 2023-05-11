@@ -18,11 +18,11 @@ hej hej
 #### More complaints after COVID-19 in all five districts 
 Looking at the distribution of complaints across the five boroughs in New York City, it is clear that all of boroughs follow a similar pattern: complaints dropped in 2020 and then began to rise again in 2021, ultimately resulting in the highest number of complaints in 2022 as compared to the previous three years. 
 
-<iframe src="https://raw.githubusercontent.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
 
-<iframe src="https://Sdataanalyse.github.io/Sdataanalyse.github.io/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
 
-<iframe src="https://Sdataanalyse.github.io/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
+<iframe src="https://Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
+
+<iframe src="https://Sdataanalyse.github.io/Pictures/Complaints_map_per_100.html" width="110%" height="800px"></iframe>
 
 
 Furthermore, the distribution of complaints across the five boroughs shows a consistent trend, with Manhattan having the highest number of complaints per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, with Staten Island at the bottom.
