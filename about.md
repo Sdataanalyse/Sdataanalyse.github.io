@@ -1,13 +1,19 @@
 ---
-title: Elements
+title: About the project
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/sunset-g2b0eabf0c_1920.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
-hej hej   
-# Heading 1
+###### Jupyter notebook
+
+
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Final_project.html" width="110%" width="110%" height="5000px"></iframe>
+
+
+[A link](https://github.com/Sdataanalyse/Sdataanalyse.github.io/blob/main/Pictures/Final_project.ipynb "A link")
+
 
 ## Heading 2
 
@@ -17,15 +23,8 @@ hej hej
 
 ##### Heading 5
 
-###### Heading 6
-
-<small>A small element</small>
 
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Final_project.html" width="110%" width="110%" height="2000px"></iframe>
-
-
-[A link](https://david.darn.es "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
