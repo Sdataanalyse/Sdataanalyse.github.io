@@ -120,6 +120,10 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
 
 navigation_footer:
 - title: COVID-19's impact on crime trends in New York
