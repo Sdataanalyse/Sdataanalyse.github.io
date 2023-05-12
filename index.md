@@ -49,7 +49,7 @@ There can be many underlying factors, but it is interesting to note that deaths 
 #### Less crime in NYC during COVID-19, but prostitution, murder and burglary kept increasing 
 During COVID-19 there was less crime in NYC compared to before the pandemic. However, looking at the ten most affected crimes in NYC separately, this is not the full story. Crime categories as prostitution, murder and burglary all saw big increases in 2020, compared to 2019.
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus1.html" width="130%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_share.html" width="130%" height="650px"></iframe>
 
 ##### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 In 2020 more people submitted complaints regarding prostitution, meanwhile fewer people got arrested for prostitution. Compared to 2019, the number of prostitution complaints goes up with 273.7 % (57 from 213), while prostitution arrests go down with 52.2% (1104 vs. 472). 
