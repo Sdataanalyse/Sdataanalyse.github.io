@@ -22,7 +22,7 @@ hej hej
 <small>A small element</small>
 
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Final Project til Mie (1).html" width="110%"
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Final Project til Mie (1).html" width="110%" width="110%" height="650px"></iframe>
 
 
 [A link](https://david.darn.es "A link")
