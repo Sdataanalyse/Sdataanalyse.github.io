@@ -16,7 +16,7 @@ It quickly became the “new normal”, not only in NYC but all of the world, wh
 #### Changing criminal behavior in NYC due to COVID-19
 Upon a quick glance at the data, it is evident that New York City (NYC) experienced a significant overall decrease in the number of crime complaints and arrests for the ten most affected crime categories (Sex crimes, Drugs, Burglary, Larceny, Assault, Murder, Rape, Robbery, Prostitution, and Disorderly Conduct) during the first year of the COVID-19 pandemic. 
 
-This trend aligns with the general pattern observed in cities worldwide, where crime initially dropped in the early weeks of the COVID-19 shutdown but began to rise afterward as residents grappled with the economic and health consequences of the pandemic (Bloomberg, 2022).
+This trend aligns with the general pattern observed in cities worldwide, where crime initially dropped in the early weeks of the COVID-19 shutdown but began to rise afterward as residents grappled with the economic and health consequences of the pandemic (Akinnibi & Wahid, 2022).
 
 In NYC, the number of crime complaints decreased by 11.3% (from 230,982 to 204,797), and arrests experienced an even more substantial decline of 32.2% (from 106,190 to 71,972) in 2020 compared to 2019 (see figure 1). Although the number of crime complaints started to increase in towards 2021, it remained below the pre-pandemic level.
 
@@ -58,7 +58,7 @@ However the number of prostitution arrests still exceeds the number of complaint
 *Figure 4: Yearly change in % for selected focus crimes, 2019-2022*
 
 One of the main reasons why there year by year have been fewer people getting arrested for prostitution in NYC, compared to before COVID-19, is due to the fact, that there have been a more focus on the area, since it was found that police officers falsely arresting people for prostitution, which may explain the falling number of arrests (NYCLU, 2021)
-Evenmore the focus has shifted from penalizing sex workers to instead targeting those who exploit or traffick individuals involved in the sex trade (New York Times, 2021)
+Evenmore the focus has shifted from penalizing sex workers to instead targeting those who exploit or traffick individuals involved in the sex trade (Bromwich 2021).
 
 ###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
 Delving deeper into the complaints data, a striking pattern emerges, while other boroughs experienced a decline in prostitution cases, the Bronx witnessed a significant increase. In figure 5 if we look at “prostitution and related offenses” we can see that from 21 complaints in 2019, the numbers skyrocketed to 204 in 2020, only to decline to 15 in 2021 and 11 in 2022. This observation potentially sheds light on the rise in prostitution complaints in 2020. 
@@ -77,19 +77,21 @@ Homicides/murders in NYC became more common during the pandemic, jolting the per
 *Figure 7: Yearly change for complaints/arrests in numbers, 2019-2022
 
 ###### New Yorkers fells more insecure, than before the pandemic
-It should be kept in mind that just before COVID, the murder rate was the lowest NYC has seen in decades and that the murder level during the pandemic, was not near the level we say in 1980s and early 1990s, where there in average was six killings each day, compared to around five killings each day in 2022 (Bloomberg, 2022)
+It should be kept in mind that just before COVID, the murder rate was the lowest NYC has seen in decades and that the murder level during the pandemic, was not near the level we say in 1980s and early 1990s, where there in average was six killings each day, compared to around five killings each day in 2022 (Akinnibi & Wahid, 2022).
 However, today the New Yorkers feel more insecure than they did before the pandemic. In the Quinnipiac University poll, 3 out of 4 New Yorkers said that the crime level was a “very serious” problem, which is the highest number since the question was first asked in 1999. (Quinnipiac University Poll. 2022) 
-It’s specially the shooting incidents, which have left NYC on edge. in the first six months of 2022, there was 639 shooting indicidents in NYC, nearly double up compared to the same period in 2019.(Bloomberg, 2022)
+It’s specially the shooting incidents, which have left NYC on edge. in the first six months of 2022, there was 639 shooting indicidents in NYC, nearly double up compared to the same period in 2019 (Akinnibi & Wahid, 2022).
 
 ###### Bronx leads in murder arrests
-In New York, nearly a quarter of all homicides and shooting incidents are concentrated in five of the city’s 77 police precincts, located in mostly low-income neighborhoods in Brooklyn and the Bronx. In 2021 there were 5.7 homicides per 100,000 people in New York City (Bloomberg, 2022)
-It is crucial to highlight that the data on murder complaints for the boroughs is not accurate because 1209 out of 1778 complaints are not registered in a borough. Therefore, it does not provide an accurate representation of murder complaints in the five boroughs. However, this is not the case for arrests.
+*First it is crucial to highlight that the data on murder complaints for the boroughs is not accurate because 1209 out of 1778 complaints are not registered in a borough. From 2019 to 2021 there are almost zore murder complaints that are regitret in a boroug, whereas all the murder complaints in 2022 are reigstreret in a borough. Therefore, it does not provide an accurate representation of murder complaints in the five boroughs. However, this is not the case for arrests.*
+
+In New York, nearly a quarter of all homicides and shooting incidents are concentrated in five of the city’s 77 police precincts, located in mostly low-income neighborhoods in Brooklyn and the Bronx. In 2021 there were 5.7 homicides per 100,000 people in New York City (Akinnibi & Wahid, 2022).
+
 Upon looking at the crimetype “murder & non-negl. manslaughter” in figure 6, it becomes apparent that the Bronx also consistently exhibits the highest number of murder arrests throughout the five-year period. Following the Bronx, Brooklyn closely trails behind, with Manhattan also showing a notable presence. Conversely, Staten Island consistently records the lowest number of murder arrests, peaking at 54 in 2020.
 
 It is worth noting that all boroughs experienced an increase in murder arrests in 2020, coinciding with the impact of the COVID-19 pandemic. Notably, both the Bronx and Brooklyn witnessed a continuous rise in their arrest figures, lending support to the notion that New Yorkers have perceived a heightened sense of insecurity following the onset of the pandemic, despite reductions in various other crime types.
 
-Criminologists attribute the rise in murder rates to various pandemic-related factors such as mental health impacts, challenges faced by law enforcement, reduced community outreach, increased gang violence, and a surge in gun ownership among first-time buyers (The New York Times 2020). 
-A study from the University of California, Davis, revealed that around 110,000 Californians purchased firearms in response to pandemic concerns, supported by a significant increase in background checks. Additionally, Los Angeles has seen a 45% increase in car-related gun thefts, some of which have been linked to shootings. The combination of these factors, along with the hardships and despair experienced during the pandemic, may have contributed to the rise in murder cases (The New York Times 2020).
+Criminologists attribute the rise in murder rates to various pandemic-related factors such as mental health impacts, challenges faced by law enforcement, reduced community outreach, increased gang violence, and a surge in gun ownership among first-time buyers (Arango & Fuller, 2020). 
+A study from the University of California, Davis, revealed that around 110,000 Californians purchased firearms in response to pandemic concerns, supported by a significant increase in background checks. Additionally, Los Angeles has seen a 45% increase in car-related gun thefts, some of which have been linked to shootings. The combination of these factors, along with the hardships and despair experienced during the pandemic, may have contributed to the rise in murder cases (Arango & Fuller, 2020).
 
 ##### Burglary increases with over 40% doing COVID-19 
 Under the COVID-19 burglary complaints saw a increase at over 40% - 4796 more burglary complaints than in 2019. 
@@ -109,26 +111,28 @@ The decline in the number of burglaries for both complaints and arrests in 2021 
 #### 2023 - Prostiution, murder/homiside and burglary
 
 
+
 #### Reference: 
-Bloomberg. (2022). Fear of Rampant Crime Is Derailing New York City’s Recovery. Bloomberg. Retrieved May 12, 2023, from URL: https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ 
+Akinnibi, F., & Wahid, R. (2022, July 29). Fear of Rampant Crime Is Derailing New York City’s Recovery. Bloomberg. Retrieved from: [https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/](https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ "https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/")
 
-[https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/](https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ "https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/")
+Arango, T., & Fuller, T (2020, October, 29). Police Pin a Rise in Murders on an Unusual Suspect: Covid. The New York Times. Retrieved from URL: [https://www.nytimes.com/2020/10/29/us/coronavirus-murders.html](https://www.nytimes.com/2020/10/29/us/coronavirus-murders.html "https://www.nytimes.com/2020/10/29/us/coronavirus-murders.html")
 
+Bromwich, K. (2021, April, 21). “Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift”. The New York Times. Retrieved from URL: [https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html](https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html "https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html")
 
-[A link](https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ "https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/")
+City of New York Criminal Justice Agency (2020). COVID-19 Impact on Criminal Justice. City of New York Criminal Justice Agency. Retrieved May 12, 2023, from URL: [https://criminaljustice.cityofnewyork.us/covid-19-impact/](https://criminaljustice.cityofnewyork.us/covid-19-impact/ "https://criminaljustice.cityofnewyork.us/covid-19-impact/")
 
-City of New York. (2020). COVID-19 Impact on Criminal Justice. City of New York Criminal Justice Agency. Retrieved May 12, 2023, from URL: NYC Criminal Justice System: COVID-19 Impact – NYC – Mayor's Office of Criminal Justice (cityofnewyork.us)
-
-Hogg, R., (2022) “More theft, burglaries and even murders are the unexpected side-effects of rising prices, this criminologist warns”. Retrieved May 12, 2023, from URL: Why Rising Prices May Spark More Theft, Burglaries – and Even Murders (businessinsider.com)
+Hogg, R. (2022, Juli 9) “More theft, burglaries and even murders are the unexpected side-effects of rising prices, this criminologist warns”. Retrieved May 12, 2023, from URL:[https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T](https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T "https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T")
 
 Kissler, S. M., Kishore, N., Prabhu, M., Goffman, D., Beilin, Y., Landau, R., Gyamfi-Bannerman, C., Bateman, B. T., Snyder, J., Razavi, A. S., Katz, D., Gal, J., Bianco, A., Stone, J., Larremore, D., Buckee, C. O., & Grad, Y. H. (2020). Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City. Nature Communications.
 
-Quinnipiac University Poll. (2022). NYC Voter Opinion: Trends and Insights. Quinnipiac University. Retrieved Maj 12, 2023, from URL: https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf
+Quinnipiac University Poll (2022). NYC Voter Opinion: Trends and Insights. Quinnipiac University. Retrieved Maj 12, 2023, from URL: [https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf](https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf "https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf")
 
-The New York Times (2020) “Police Pin a Rise in Murders on an Unusual Suspect: Covid” Retrieved from URL: Covid Blamed for Rise in Murders Across U.S. - The New York Times (nytimes.com)
-The New York Times (2021) “Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift”. Retrieved from URL Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift - The New York Times (nytimes.com)
-* The New York Times (2023) “Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell - The New York Times”. Retrieved from URL: Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell - The New York Times (nytimes.com)
+Marcius, C. & Shanahan, Ed. (2023, January, 5) “Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell". The New York Times. Retrieved from URL: [https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html](https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html "https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html")
+
 * The Wall Street Journal. (2020). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures." Retrieved from URL: New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures - WSJ
+
+(Ben Chapman, B. & Morris, K. (2020)
+
 1. NYCLU. (2021). Decriminalize Sex Work: NYC Must First Defund NYPD's Vice Squad. NYCLU. Retrieved May 12, 2023, from URL: https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/
 2. Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
 
