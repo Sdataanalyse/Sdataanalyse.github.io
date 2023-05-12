@@ -21,9 +21,7 @@ This trend aligns with the general pattern observed in cities worldwide, where c
 In NYC, the number of crime complaints decreased by 11.3% (from 230,982 to 204,797), and arrests experienced an even more substantial decline of 32.2% (from 106,190 to 71,972) in 2020 compared to 2019 (see figure 1). Although the number of crime complaints started to increase in towards 2021, it remained below the pre-pandemic level.
 
 *Figure 1: Total number and % change for complaints/arrests (focus crimes), 2019-2022*
-
-FIGUR 
-
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_overview.html" width="110%" height="650px"></iframe>
 ##### Higher level of crime in NYC after COVID-19
 Christopher Herrmann, assistant professor at John Jay College of Criminal Justice, states that the overall picture for 2022 statistics in New York City is alarming, with a significant increase in crime. According to Herrmann, "crime is up in New York City, and it's up quite a bit" (Marcius & Shanahan 2023)
 
@@ -53,9 +51,11 @@ During COVID-19 there was less crime in NYC compared to before the pandemic. How
 
 ##### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 In 2020 more people submitted complaints regarding prostitution, meanwhile fewer people got arrested for prostitution. Compared to 2019, the number of prostitution complaints goes up with 273.7 % (57 from 213), while prostitution arrests go down with 52.2% (1104 vs. 472). 
-However the number of prostitution arrests still exceeds the number of complaints. A reason for this can be that individuals involved in the sex industry are less likely to report such activities. Stigma, fear of legal repercussions, and the discrete nature of the crime contribute to underreporting. 
 
 *Figure 4: Yearly change in % for selected focus crimes, 2019-2022*
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_%.html" width="130%" height="650px"></iframe>
+
+However the number of prostitution arrests still exceeds the number of complaints. A reason for this can be that individuals involved in the sex industry are less likely to report such activities. Stigma, fear of legal repercussions, and the discrete nature of the crime contribute to underreporting. 
 
 One of the main reasons why there year by year have been fewer people getting arrested for prostitution in NYC, compared to before COVID-19, is due to the fact, that there have been a more focus on the area, since it was found that police officers falsely arresting people for prostitution, which may explain the falling number of arrests (Trujillo 2021).
 Evenmore the focus has shifted from penalizing sex workers to instead targeting those who exploit or traffick individuals involved in the sex trade (Bromwich 2021).
@@ -108,7 +108,15 @@ Compared to the other boroughs, Manhattan has a clear advantage when it comes to
 
 The decline in the number of burglaries for both complaints and arrests in 2021 can be attributed to the return of more people to work after covid-19. However, there was a subsequent increase in burglary cases in 2022, coinciding with the impact of inflation. Criminologists have suggested that rising prices can contribute to an increase in burglaries (Hogg, 2022).
 
-#### 2023 - Prostiution, murder/homiside and burglary
+#### 2023 - what then?
+While we have examined the crime rates from the past year, it remains uncertain how they will evolve in the future. Predicting future crime rates is a complex task that depends on various factors, including social, economic, and policy changes. It is essential to continue monitoring and analyzing crime data over time to gain insights into potential trends and patterns that may influence future crime rates. 
+
+Already in March 2023, the crime rates for murder and burglary for example showed positive trends. Homicides decreased by 11.4% compared to the same period in the previous year, continuing the downward trend in homicides over the first three months of 2023, which saw a 12.7% decrease.
+Similarly, burglary rates demonstrated a significant reduction, with a decrease of 12.5% in March 2023 compared to the previous year. This decline in burglaries aligns with the ongoing progress seen in the first quarter of 2023, where burglary rates dropped by 6.1% (New York City Police Department 2023)
+
+According to the NYPD the earlier high numbers of major crime arrests, including murder, rape, robbery, felony assault, burglary, grand larceny, and grand larceny of a motor vehicle can be explained by The NYPD prioritizing apprehending individuals involved in serious offenses such as these crimetypes. The emphasis has been on proactive law enforcement and targeting repeat offenders (Coltin, J.2023)
+
+With the reduction in both murder and burglary rates this may have worked. However it is important to continue addressing persistent issues and maintaining the momentum in crime prevention. Here data analysis and visualization as we have done above plays a crucial role in identifying target crimes and high-risk areas for law enforcement. By analyzing relevant data, police can determine which types of crimes to focus on and allocate their resources accordingly. Additionally, data analysis helps in identifying specific geographical areas where criminal activities are more prevalent, enabling law enforcement to concentrate their efforts in those locations for proactive crime prevention.
 
 
 
@@ -119,21 +127,27 @@ Arango, T., & Fuller, T (2020, October, 29). Police Pin a Rise in Murders on an 
 
 Bromwich, K. (2021, April, 21). “Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift”. The New York Times. Retrieved from URL: [https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html](https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html "https://www.nytimes.com/2021/04/21/nyregion/manhattan-to-stop-prosecuting-prostitution.html")
 
+Chapman, B. & Morris, K. (2020, April, 4). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures". The Wall Street Journal. Retrieved from URL: [https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801](https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801 "https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801")
+
 City of New York Criminal Justice Agency (2020). COVID-19 Impact on Criminal Justice. City of New York Criminal Justice Agency. Retrieved May 12, 2023, from URL: [https://criminaljustice.cityofnewyork.us/covid-19-impact/](https://criminaljustice.cityofnewyork.us/covid-19-impact/ "https://criminaljustice.cityofnewyork.us/covid-19-impact/")
+
+Coltin, J.(2023, March, 17) “Major arrests in New York City at highest point since Giuliani”. Retrieved from URL: [https://www.cityandstateny.com/policy/2023/03/major-arrests-new-york-city-highest-point-giuliani/384118/](https://www.cityandstateny.com/policy/2023/03/major-arrests-new-york-city-highest-point-giuliani/384118/ "https://www.cityandstateny.com/policy/2023/03/major-arrests-new-york-city-highest-point-giuliani/384118/")
 
 Hogg, R. (2022, Juli 9) “More theft, burglaries and even murders are the unexpected side-effects of rising prices, this criminologist warns”. Retrieved May 12, 2023, from URL:[https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T](https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T "https://www.businessinsider.com/why-soaring-inflation-spark-more-theft-burglaries-and-even-murder-2022-7?r=US&IR=T")
 
 Kissler, S. M., Kishore, N., Prabhu, M., Goffman, D., Beilin, Y., Landau, R., Gyamfi-Bannerman, C., Bateman, B. T., Snyder, J., Razavi, A. S., Katz, D., Gal, J., Bianco, A., Stone, J., Larremore, D., Buckee, C. O., & Grad, Y. H. (2020). Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City. Nature Communications.
 
-Quinnipiac University Poll (2022). NYC Voter Opinion: Trends and Insights. Quinnipiac University. Retrieved Maj 12, 2023, from URL: [https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf](https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf "https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf")
+New York City Police Department (2023, April, 6) “NYPD Announces Citywide Crime Statistics for March 2023”. Retrieved from URL: 
+[https://www.nyc.gov/site/nypd/news/p00077/nypd-citywide-crime-statistics-march-2023](https://www.nyc.gov/site/nypd/news/p00077/nypd-citywide-crime-statistics-march-2023 "https://www.nyc.gov/site/nypd/news/p00077/nypd-citywide-crime-statistics-march-2023")
 
 Marcius, C. & Shanahan, Ed. (2023, January, 5) “Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell". The New York Times. Retrieved from URL: [https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html](https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html "https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html")
 
-Chapman, B. & Morris, K. (2020, April, 4). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures". The Wall Street Journal. Retrieved from URL: [https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801](https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801 "https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801")
+Quinnipiac University Poll (2022). NYC Voter Opinion: Trends and Insights. Quinnipiac University. Retrieved Maj 12, 2023, from URL: [https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf](https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf "https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf")
 
 Trujillo, J. (2021, May, 5). Decriminalize Sex Work: NYC Must First Defund NYPD's Vice Squad. NYCLU. Retrieved May 12, 2023, from URL: [https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/](https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/ "https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/")
 
 Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
+
 
 
 
