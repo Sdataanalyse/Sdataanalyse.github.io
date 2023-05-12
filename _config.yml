@@ -88,7 +88,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: " " # Site name or title, also used in jekyll-seo-tag
+title: "Hej" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/newyork.png" # Site logo, also used in jekyll-seo-tag
 description: "Beskrivelse af projektet" # Site description and default description, also used in jekyll-seo-tag
 url: "https://sdataanalyse.github.io/" #https://alembic.darn.es Site url, also used in jekyll-seo-tag
