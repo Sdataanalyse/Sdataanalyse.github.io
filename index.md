@@ -1,10 +1,9 @@
 ---
 title: Crime complaints and arrests saw a big decrease in NYC under COVID-19 – Why?
 feature_text: |
-  ## COVID-19's impact on crime trends in New York
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+
 feature_image: "https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/NewYork.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: " "
 ---
 
 In the start of 2020 the whole world got impacted by the Corona pandemic, which lead to a dramatic change in everyday life for people all of the world (Wollf et al., 2022). 
