@@ -145,6 +145,6 @@ Trujillo, J. (2021, May, 5). Decriminalize Sex Work: NYC Must First Defund NYPD'
 
 Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
 
-[Link to jupyter notebook](https://sdataanalyse.github.io/about/ "Link to jupyter notebook")
+[Link to Explainer Notebook](https://sdataanalyse.github.io/about/ "Link to Explainer Notebook")
 
 
