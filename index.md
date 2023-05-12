@@ -32,6 +32,7 @@ This increase is reflected in the number of crime complaints, which rose by 15.6
 In contrast, arrests experienced a decline in 2022, with a decrease of 11.4%. This decline was mainly driven by significant drops in cases related to disorderly conduct, drugs, and prostitution.
 ###### More complaints after COVID-19 in all five districts 
 Looking at the distribution of complaints across the five boroughs in New York City, it is clear that all of boroughs follow a similar pattern: complaints dropped in 2020 and then began to rise again in 2021, ultimately resulting in the highest number of complaints in 2022 as compared to the previous three years. 
+
 *Figure 2: Complaints per 100,000 residents across boroughs*
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaints_map_per_100.html" width="130%" height="650px"></iframe>
 Furthermore, the distribution of complaints across the five boroughs shows a consistent trend, with Manhattan having the highest number of complaints per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, with Staten Island at the bottom.
@@ -40,6 +41,7 @@ Conversely, The Bronx, while not as ethnically diverse as Manhattan, faces its o
 
 ###### Less arrests after COVID-19 in all five boroughs
 When we look at the distribution of arrests across the five boroughs of New York City, we notice that the pattern is similar to the one observed for complaints. Manhattan stands out with the highest number of arrests per 100,000 residents, followed by the Bronx, Brooklyn, and Queens, while Staten Island has the lowest number of arrests.
+
 *Figure 3: Arrests per 100,000 residents across boroughs*
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Arrest_map_per_100.html" width="130%" height="650px"></iframe>
 However, there is an interesting twist in the data for the year 2020 when the COVID-19 pandemic emerged. While all districts experienced a decrease in arrests, Manhattan saw a larger drop compared to the Bronx, with arrests per 100,000 residents declining from 1856 to 1152, while the Bronx decreased from 1785 to 1196. Surprisingly, this resulted in the Bronx having the highest arrest rate per capita that year, despite Manhattan consistently holding that position in other years. This raises the question: what factors contributed to the Bronx surpassing Manhattan in arrests per 100,000 residents in 2020?"
@@ -61,10 +63,11 @@ Evenmore the focus has shifted from penalizing sex workers to instead targeting 
 ###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
 Delving deeper into the complaints data, a striking pattern emerges, while other boroughs experienced a decline in prostitution cases, the Bronx witnessed a significant increase. In figure 5 if we look at “prostitution and related offenses” we can see that from 21 complaints in 2019, the numbers skyrocketed to 204 in 2020, only to decline to 15 in 2021 and 11 in 2022. This observation potentially sheds light on the rise in prostitution complaints in 2020. 
 
-Figure 5: Yearly number of complaints across boroughs, 2019-2022
+*Figure 5: Yearly number of complaints across boroughs, 2019-2022*
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_Borough.html" width="110%" height="650px"></iframe>
 In addition to an increase in complaints, the Bronx has also witnessed a surge in prostitution-related arrests. The number of arrests rose from 170 in 2019 to 248 in 2020, contrasting with the downward trend observed in the other boroughs.
-Figure 6: Yearly number of arrests across boroughs, 2019-2022
+
+*Figure 6: Yearly number of arrests across boroughs, 2019-2022*
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Arrest_borough.html" width="110%" height="650px"></iframe>
 However, the intriguing question remains: what factors are specifically driving this increase in the Bronx? During our research, it appears that this particular subject has not received significant attention previously, suggesting that it remains an area worthy of further investigation.
 
@@ -104,4 +107,30 @@ Compared to the other boroughs, Manhattan has a clear advantage when it comes to
 The decline in the number of burglaries for both complaints and arrests in 2021 can be attributed to the return of more people to work after covid-19. However, there was a subsequent increase in burglary cases in 2022, coinciding with the impact of inflation. Criminologists have suggested that rising prices can contribute to an increase in burglaries (Hogg, 2022).
 
 #### 2023 - Prostiution, murder/homiside and burglary
+
+
+#### Reference: 
+Bloomberg. (2022). Fear of Rampant Crime Is Derailing New York City’s Recovery. Bloomberg. Retrieved May 12, 2023, from URL: https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ 
+
+[https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/](https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ "https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/")
+
+
+[A link](https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/ "https://www.bloomberg.com/graphics/2022-is-nyc-safe-crime-stat-reality/")
+
+City of New York. (2020). COVID-19 Impact on Criminal Justice. City of New York Criminal Justice Agency. Retrieved May 12, 2023, from URL: NYC Criminal Justice System: COVID-19 Impact – NYC – Mayor's Office of Criminal Justice (cityofnewyork.us)
+
+Hogg, R., (2022) “More theft, burglaries and even murders are the unexpected side-effects of rising prices, this criminologist warns”. Retrieved May 12, 2023, from URL: Why Rising Prices May Spark More Theft, Burglaries – and Even Murders (businessinsider.com)
+
+Kissler, S. M., Kishore, N., Prabhu, M., Goffman, D., Beilin, Y., Landau, R., Gyamfi-Bannerman, C., Bateman, B. T., Snyder, J., Razavi, A. S., Katz, D., Gal, J., Bianco, A., Stone, J., Larremore, D., Buckee, C. O., & Grad, Y. H. (2020). Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City. Nature Communications.
+
+Quinnipiac University Poll. (2022). NYC Voter Opinion: Trends and Insights. Quinnipiac University. Retrieved Maj 12, 2023, from URL: https://poll.qu.edu/images/polling/nyc/nyc02092022_trends_nywx73.pdf
+
+The New York Times (2020) “Police Pin a Rise in Murders on an Unusual Suspect: Covid” Retrieved from URL: Covid Blamed for Rise in Murders Across U.S. - The New York Times (nytimes.com)
+The New York Times (2021) “Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift”. Retrieved from URL Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift - The New York Times (nytimes.com)
+* The New York Times (2023) “Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell - The New York Times”. Retrieved from URL: Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell - The New York Times (nytimes.com)
+* The Wall Street Journal. (2020). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures." Retrieved from URL: New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures - WSJ
+1. NYCLU. (2021). Decriminalize Sex Work: NYC Must First Defund NYPD's Vice Squad. NYCLU. Retrieved May 12, 2023, from URL: https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/
+2. Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
+
+
 
