@@ -48,16 +48,12 @@ There can be many underlying factors, but it is interesting to note that deaths 
 
 #### Less crime in NYC during COVID-19, but prostitution, murder and burglary kept increasing 
 During COVID-19 there was less crime in NYC compared to before the pandemic. However, looking at the ten most affected crimes in NYC separately, this is not the full story. Crime categories as prostitution, murder and burglary all saw big increases in 2020, compared to 2019.
-
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_share.html" width="130%" height="650px"></iframe>
-
 ##### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 In 2020 more people submitted complaints regarding prostitution, meanwhile fewer people got arrested for prostitution. Compared to 2019, the number of prostitution complaints goes up with 273.7 % (57 from 213), while prostitution arrests go down with 52.2% (1104 vs. 472). 
 
 *Figure 4: Yearly change in % for selected focus crimes, 2019-2022*
-
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus1.html" width="130%" height="650px"></iframe>
-
 However the number of prostitution arrests still exceeds the number of complaints. A reason for this can be that individuals involved in the sex industry are less likely to report such activities. Stigma, fear of legal repercussions, and the discrete nature of the crime contribute to underreporting. 
 
 One of the main reasons why there year by year have been fewer people getting arrested for prostitution in NYC, compared to before COVID-19, is due to the fact, that there have been a more focus on the area, since it was found that police officers falsely arresting people for prostitution, which may explain the falling number of arrests (Trujillo 2021).
@@ -77,7 +73,7 @@ However, the intriguing question remains: what factors are specifically driving 
 ##### Murders/homicides in NYC has become more common under COVID-19
 Homicides/murders in NYC became more common during the pandemic, jolting the perception of a city once called “the safest big city in America.” Marcius & Shanahan 2023). Compared with the “before-COVID-level” NYC saw a steadily increasing number of murders/homicides in the whole period from 2019-2022. In that periode the number of complaints increased by 83.4% (from 301 to 552) and arrests by 64.8% (from 1013 to 1669). 
 
-*Figure 7: Yearly change for complaints/arrests in numbers, 2019-2022
+*Figure 7: Yearly change for complaints/arrests in numbers, 2019-2022*
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_total.html" width="130%" height="650px"></iframe>
 ###### New Yorkers fells more insecure, than before the pandemic
 It should be kept in mind that just before COVID, the murder rate was the lowest NYC has seen in decades and that the murder level during the pandemic, was not near the level we say in 1980s and early 1990s, where there in average was six killings each day, compared to around five killings each day in 2022 (Akinnibi & Wahid, 2022).
@@ -99,8 +95,6 @@ A study from the University of California, Davis, revealed that around 110,000 C
 ##### Burglary increases with over 40% doing COVID-19 
 Under the COVID-19 burglary complaints saw a increase at over 40% - 4796 more burglary complaints than in 2019. 
 During the reopenings in 2021 the burglary tends to decrease, for hereafter reaching the same crime level in 2022 as was seen in 2020.
-
-figur?? 
 
 ##### Manhattan tops the charts in burglary rise
 In 2020, burglary rates witnessed an increase across all boroughs of NYC in both complaints and arrests (see burglary in figure 5 and 6). However, Manhattan experienced the most substantial surge, with arrests jumping from 1,394 in 2019 to 2,618 in 2020. Interestingly, there was a subsequent decline in burglary incidents citywide in 2021, followed by a resurgence in 2022.
