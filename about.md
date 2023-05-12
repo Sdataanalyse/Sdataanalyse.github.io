@@ -8,6 +8,6 @@ aside: false
 ---
 
 
-<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Explainer Notebook-6.html" width="130%" height="30000px"></iframe>
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Explainer Notebook-6.html" width="130%" height="25000px"></iframe>
 
 
