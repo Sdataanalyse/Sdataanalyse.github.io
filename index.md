@@ -25,7 +25,7 @@ In NYC, the number of crime complaints decreased by 11.3% (from 230,982 to 204,7
 FIGUR 
 
 ##### Higher level of crime in NYC after COVID-19
-Christopher Herrmann, assistant professor at John Jay College of Criminal Justice, states that the overall picture for 2022 statistics in New York City is alarming, with a significant increase in crime. According to Herrmann, "crime is up in New York City, and it's up quite a bit" (New York Times, 2023). 
+Christopher Herrmann, assistant professor at John Jay College of Criminal Justice, states that the overall picture for 2022 statistics in New York City is alarming, with a significant increase in crime. According to Herrmann, "crime is up in New York City, and it's up quite a bit" (Marcius & Shanahan 2023)
 
 This increase is reflected in the number of crime complaints, which rose by 15.6% (from 230,982 to 267,012) compared to pre-COVID levels in 2019, reaching the highest level within the period.
 
@@ -57,7 +57,7 @@ However the number of prostitution arrests still exceeds the number of complaint
 
 *Figure 4: Yearly change in % for selected focus crimes, 2019-2022*
 
-One of the main reasons why there year by year have been fewer people getting arrested for prostitution in NYC, compared to before COVID-19, is due to the fact, that there have been a more focus on the area, since it was found that police officers falsely arresting people for prostitution, which may explain the falling number of arrests (NYCLU, 2021)
+One of the main reasons why there year by year have been fewer people getting arrested for prostitution in NYC, compared to before COVID-19, is due to the fact, that there have been a more focus on the area, since it was found that police officers falsely arresting people for prostitution, which may explain the falling number of arrests (Trujillo 2021).
 Evenmore the focus has shifted from penalizing sex workers to instead targeting those who exploit or traffick individuals involved in the sex trade (Bromwich 2021).
 
 ###### Prostitution spike in the Bronx in 2020 as other boroughs witness downturn
@@ -72,7 +72,7 @@ In addition to an increase in complaints, the Bronx has also witnessed a surge i
 However, the intriguing question remains: what factors are specifically driving this increase in the Bronx? During our research, it appears that this particular subject has not received significant attention previously, suggesting that it remains an area worthy of further investigation.
 
 ##### Murders/homicides in NYC has become more common under COVID-19
-Homicides/murders in NYC became more common during the pandemic, jolting the perception of a city once called “the safest big city in America.” (New York Times, 2023) Compared with the “before-COVID-level” NYC saw a steadily increasing number of murders/homicides in the whole period from 2019-2022. In that periode the number of complaints increased by 83.4% (from 301 to 552) and arrests by 64.8% (from 1013 to 1669). 
+Homicides/murders in NYC became more common during the pandemic, jolting the perception of a city once called “the safest big city in America.” Marcius & Shanahan 2023). Compared with the “before-COVID-level” NYC saw a steadily increasing number of murders/homicides in the whole period from 2019-2022. In that periode the number of complaints increased by 83.4% (from 301 to 552) and arrests by 64.8% (from 1013 to 1669). 
 
 *Figure 7: Yearly change for complaints/arrests in numbers, 2019-2022
 
@@ -102,7 +102,7 @@ figur??
 ##### Manhattan tops the charts in burglary rise
 In 2020, burglary rates witnessed an increase across all boroughs of NYC in both complaints and arrests (see burglary in figure 5 and 6). However, Manhattan experienced the most substantial surge, with arrests jumping from 1,394 in 2019 to 2,618 in 2020. Interestingly, there was a subsequent decline in burglary incidents citywide in 2021, followed by a resurgence in 2022.
 
-The surge in Manhattan can be attributed to the unique circumstances during the initial COVID-19 lockdown. As businesses and offices closed, many people began working from home, leaving commercial establishments unattended. This created an opportune environment for burglaries, which may have resulted in the observed increase in burglaries across all boroughs (The Wall Street Journal. 2020). 
+The surge in Manhattan can be attributed to the unique circumstances during the initial COVID-19 lockdown. As businesses and offices closed, many people began working from home, leaving commercial establishments unattended. This created an opportune environment for burglaries, which may have resulted in the observed increase in burglaries across all boroughs (Champman & Morris 2020). 
 
 Compared to the other boroughs, Manhattan has a clear advantage when it comes to business concentration. It is renowned for its vibrant financial district, home to influential institutions such as major banks, investment firms, and the New York Stock Exchange. This concentration of economic activity in Manhattan could provide insight into why the borough experienced a notable increase in burglary in 2020. With many people being sent home from work due to lockdown measures, businesses and offices were left unoccupied, potentially making them more vulnerable to burglary incidents.
 
@@ -129,12 +129,11 @@ Quinnipiac University Poll (2022). NYC Voter Opinion: Trends and Insights. Quinn
 
 Marcius, C. & Shanahan, Ed. (2023, January, 5) “Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell". The New York Times. Retrieved from URL: [https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html](https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html "https://www.nytimes.com/2023/01/05/nyregion/new-york-crime-stats.html")
 
-* The Wall Street Journal. (2020). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures." Retrieved from URL: New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures - WSJ
+Chapman, B. & Morris, K. (2020, April, 4). "New York City Sees More Burglaries of Businesses Under Coronavirus Emergency Measures". The Wall Street Journal. Retrieved from URL: [https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801](https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801 "https://www.wsj.com/articles/new-york-city-sees-more-burglaries-of-businesses-under-coronavirus-emergency-measures-11586008801")
 
-(Ben Chapman, B. & Morris, K. (2020)
+Trujillo, J. (2021, May, 5). Decriminalize Sex Work: NYC Must First Defund NYPD's Vice Squad. NYCLU. Retrieved May 12, 2023, from URL: [https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/](https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/ "https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/")
 
-1. NYCLU. (2021). Decriminalize Sex Work: NYC Must First Defund NYPD's Vice Squad. NYCLU. Retrieved May 12, 2023, from URL: https://www.nyclu.org/en/news/decriminalize-sex-work-nyc-must-first-defund-nypds-vice-squad/
-2. Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
+Wolff, K. T., Intravia, J., Baglivio, M. T., Piquero, A. R. (2022). Violence in the Big Apple throughout the COVID-19 pandemic: A borough-specific analysis.
 
 
 
