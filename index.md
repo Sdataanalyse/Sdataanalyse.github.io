@@ -53,6 +53,7 @@ During COVID-19 there was less crime in NYC compared to before the pandemic. How
 In 2020 more people submitted complaints regarding prostitution, meanwhile fewer people got arrested for prostitution. Compared to 2019, the number of prostitution complaints goes up with 273.7 % (57 from 213), while prostitution arrests go down with 52.2% (1104 vs. 472). 
 
 *Figure 4: Yearly change in % for selected focus crimes, 2019-2022*
+
 <iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_%.html" width="130%" height="650px"></iframe>
 
 However the number of prostitution arrests still exceeds the number of complaints. A reason for this can be that individuals involved in the sex industry are less likely to report such activities. Stigma, fear of legal repercussions, and the discrete nature of the crime contribute to underreporting. 
