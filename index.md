@@ -49,6 +49,8 @@ There can be many underlying factors, but it is interesting to note that deaths 
 #### Less crime in NYC during COVID-19, but prostitution, murder and burglary kept increasing 
 During COVID-19 there was less crime in NYC compared to before the pandemic. However, looking at the ten most affected crimes in NYC separately, this is not the full story. Crime categories as prostitution, murder and burglary all saw big increases in 2020, compared to 2019.
 
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_share_%.html" width="130%" height="650px"></iframe>
+
 ##### Record high number of prostitution complaints in NYC under COVID-19, but the number of arrests keeps falling
 In 2020 more people submitted complaints regarding prostitution, meanwhile fewer people got arrested for prostitution. Compared to 2019, the number of prostitution complaints goes up with 273.7 % (57 from 213), while prostitution arrests go down with 52.2% (1104 vs. 472). 
 
@@ -76,7 +78,7 @@ However, the intriguing question remains: what factors are specifically driving 
 Homicides/murders in NYC became more common during the pandemic, jolting the perception of a city once called “the safest big city in America.” Marcius & Shanahan 2023). Compared with the “before-COVID-level” NYC saw a steadily increasing number of murders/homicides in the whole period from 2019-2022. In that periode the number of complaints increased by 83.4% (from 301 to 552) and arrests by 64.8% (from 1013 to 1669). 
 
 *Figure 7: Yearly change for complaints/arrests in numbers, 2019-2022
-
+<iframe src="https://raw.githack.com/Sdataanalyse/Sdataanalyse.github.io/main/Pictures/Complaint_arrest_focus_total.html" width="130%" height="650px"></iframe>
 ###### New Yorkers fells more insecure, than before the pandemic
 It should be kept in mind that just before COVID, the murder rate was the lowest NYC has seen in decades and that the murder level during the pandemic, was not near the level we say in 1980s and early 1990s, where there in average was six killings each day, compared to around five killings each day in 2022 (Akinnibi & Wahid, 2022).
 However, today the New Yorkers feel more insecure than they did before the pandemic. In the Quinnipiac University poll, 3 out of 4 New Yorkers said that the crime level was a “very serious” problem, which is the highest number since the question was first asked in 1999. (Quinnipiac University Poll. 2022) 
